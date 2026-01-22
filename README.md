@@ -133,7 +133,7 @@ The scraped data belongs to Flipkart, and their **terms & conditions** should be
 
 ## 👤 Author
 
- Vikash A  
+Vikash A  
 B.Tech (ECE)  
 Aspiring Data Scientist
 
